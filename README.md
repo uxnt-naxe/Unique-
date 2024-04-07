@@ -8,6 +8,7 @@ directory <hello>
 // ? System.out.println
 import <System.out>
 fun main () {
+    var text = "New Text?"
     println("Hello World!")
 }
 ```
