@@ -1,5 +1,13 @@
 ## Unique 0.1.0 (Unique Programming Language)
-Unique编程语言是我们写的新代码语法简化比较好，再用这样行吧。为SourceSpace工作室编写代码准备的编程语言。
+Unique编程语言是为SourceSpace工作室编写代码准备的编程语言。我们写的新代码语法简化比较好，再用这样行吧。
+
+## Unique
+* 内核，我们团队技术，观乐非常好，合作能力比较强大。我们对Unique有活泼的信仰很强大。。。
+* 语法简化比较好
+* 字节码
+* 编译器
+* 虚拟机
+
 
 ## Unique 代码语法
 ```kt
