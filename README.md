@@ -17,6 +17,8 @@ directory <hello>
 // Test println Hello World! ;
 // ? System.out.println
 import <System.out>
+var name : String { get }
+var isfo : String { get }
 fun main () {
     var text = "New Text?"
     println("Hello World!")
