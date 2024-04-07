@@ -56,8 +56,8 @@ fun main () {
 2. 如果您想支持更多的语言，请与我们联系。
 
 ## 更多信息
-1. [updateLog](./doc/updateLog.md)
-2. [grammar](./doc/garmmar.md)
+1. [更新日志](./doc/updateLog.md)
+2. [语法](./doc/garmmar.md)
 
 ## 联系
 1. QQ : 3572113478
