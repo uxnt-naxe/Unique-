@@ -1,7 +1,9 @@
 # Unique Instruction
 
 ```kt
-fun main () { }
+fun main () {
+    println("Hello World!")
+}
 ```
 
 
