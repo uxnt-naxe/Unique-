@@ -1,5 +1,18 @@
 # Unique Instruction
 
+```kt
+fun main () { }
+```
+
+
+
+
+
+
+
+
+
+
 ## Information
 	A programming language is prepared for SourceSpace Studio coding.
 
