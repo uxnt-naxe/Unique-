@@ -2,6 +2,7 @@
 
 ```kt
 catalog <hello>
+directory <hello>
 // dir_tree <hello>
 // Test println Hello World! ;
 // ? System.out.println
@@ -13,6 +14,7 @@ fun main () {
 
 ```kt
 catalog <hello>
+directory <hello>
 // dir_tree <hello>
 // System.out.println
 import <System.out>
