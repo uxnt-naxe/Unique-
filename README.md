@@ -1,6 +1,8 @@
 # Unique Instruction
 
 ```kt
+catalog <hello>
+// dir_tree <hello>
 // Test println Hello World! ;
 // ? System.out.println
 import <System.out>
@@ -10,6 +12,8 @@ fun main () {
 ```
 
 ```kt
+catalog <hello>
+// dir_tree <hello>
 // System.out.println
 import <System.out>
 import <util>
