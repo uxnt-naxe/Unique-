@@ -1,13 +1,25 @@
 # Unique Instruction
 
 ```kt
+// Test println Hello World! ;
+// ? System.out.println
+import <System.out>
 fun main () {
     println("Hello World!")
 }
 ```
 
-
-
+```kt
+// System.out.println
+import <System.out>
+import <util>
+// val integer = 5
+fun main () {
+    val integer = 5
+    println("Hello World!")
+    println("%d", integer)
+}
+```
 
 
 
