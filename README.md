@@ -22,6 +22,9 @@ import <System.out>
 // var isfo : String { get }
 // var name:String
 // var isfo:String
+
+Module System.out;
+
 String name;
 String isfo;
 
