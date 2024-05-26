@@ -17,6 +17,7 @@ directory <hello>
 // Test println Hello World! ;
 // ? System.out.println
 import <System.out>
+// module System.out
 var name : String { get }
 var isfo : String { get }
 fun main () {
@@ -26,12 +27,14 @@ fun main () {
 ```
 ## 变量整形语法
 ```kt
+// module System.out
 catalog <hello>
 directory <hello>
 // dir_tree <hello>
 // System.out.println
 import <System.out>
 import <util>
+module System.out
 // val integer = 5
 fun main () {
     val integer = 5
