@@ -11,12 +11,12 @@ Unique编程语言是为SourceSpace工作室编写代码准备的编程语言。
 
 ## Unique 代码语法
 ```kt
-catalog <hello>
-directory <hello>
-// dir_tree <hello>
+// catalog hello;
+// directory hello;
+// dir_tree hello;
 // Test println Hello World! ;
 // ? System.out.println
-import <System.out>
+// import <System.out>
 // module System.out
 // var name : String { get }
 // var isfo : String { get }
@@ -38,13 +38,13 @@ fun main () {
 ## 变量整形语法
 ```kt
 // module System.out
-catalog <hello>
-directory <hello>
+// catalog <hello>
+// directory <hello>
 // dir_tree <hello>
 // System.out.println
-import <System.out>
-import <util>
-module System.out
+Import System.out;
+Import util;
+Module System.out;
 // val integer = 5;
 fun main () {
     val integer = 5;
