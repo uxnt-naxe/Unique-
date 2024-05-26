@@ -24,6 +24,8 @@ import <System.out>
 // var isfo:String
 
 Module System.out;
+Module System;
+Module hello;
 
 String name;
 String isfo;
