@@ -18,11 +18,16 @@ directory <hello>
 // ? System.out.println
 import <System.out>
 // module System.out
-var name : String { get }
-var isfo : String { get }
+// var name : String { get }
+// var isfo : String { get }
+// var name:String
+// var isfo:String
+String name;
+String isfo;
+
 fun main () {
-    var text = "New Text?"
-    println("Hello World!")
+    var text = "New Text?";
+    println("Hello World!");
 }
 ```
 ## 变量整形语法
@@ -35,11 +40,11 @@ directory <hello>
 import <System.out>
 import <util>
 module System.out
-// val integer = 5
+// val integer = 5;
 fun main () {
-    val integer = 5
-    println("Hello World!")
-    println("%d", integer)
+    val integer = 5;
+    println("Hello World!");
+    println("{integer}", integer);
 }
 ```
 
